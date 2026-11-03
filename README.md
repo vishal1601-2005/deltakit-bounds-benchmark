@@ -14,7 +14,7 @@ Cliffords), gradient at p/2 = 1e-3, `C_OPTIMAL` discretisation with 6 points, de
 relative standard error 5 %, at least 20 failures.
 
 ## Result (small sample, indicative only)
-| f | completed runs | std / |mean| of gradient |
+| f | completed runs | relative spread (std over mean) |
 |---|---|---|
 | 1.3 | 5/6 | 1.96 |
 | 1.6 | 3/6 | 1.72 |
