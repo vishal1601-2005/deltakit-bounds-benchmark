@@ -1,0 +1,4 @@
+deltakit==0.10.2
+deltakit-explorer==0.9.4
+numpy
+matplotlib
