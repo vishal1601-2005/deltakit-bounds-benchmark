@@ -1,0 +1,60 @@
+{"factor": 1.3, "repeat": 0, "grads": [156.59756174653938, -32.97440303502117], "reported_std": [47.44518326373211, 45.670738002283045], "error": null, "secs": 218.00758409500122}
+{"factor": 1.6, "repeat": 0, "grads": [106.94059260270569, 21.599460809995435], "reported_std": [26.05908615794553, 25.047503669188547], "error": null, "secs": 218.76854491233826}
+{"factor": 2.0, "repeat": 0, "grads": [101.06382441989568, 21.579745253803118], "reported_std": [14.984064902032495, 15.091042417230145], "error": null, "secs": 223.36348509788513}
+{"factor": 3.0, "repeat": 0, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 228.22326707839966}
+{"factor": 8.0, "repeat": 0, "grads": null, "reported_std": null, "error": "ValueError", "secs": 223.45281219482422}
+{"factor": 5.0, "repeat": 0, "grads": null, "reported_std": null, "error": "ValueError", "secs": 225.1203281879425}
+{"factor": 1.3, "repeat": 1, "grads": [20.89621511374935, -56.1599922129717], "reported_std": [45.470829965771266, 50.451262657318075], "error": null, "secs": 224.73109078407288}
+{"factor": 1.6, "repeat": 1, "grads": [88.02120186926481, 11.632168500597864], "reported_std": [23.341142718082125, 22.69360653868416], "error": null, "secs": 225.01031708717346}
+{"factor": 2.0, "repeat": 1, "grads": [106.66794917151526, 9.909817993962871], "reported_std": [15.961180327539862, 15.719324487654283], "error": null, "secs": 229.38703727722168}
+{"factor": 5.0, "repeat": 1, "grads": [77.23378467452679, 8.263528280387458], "reported_std": [12.925444764726603, 5.324490541954816], "error": null, "secs": 224.90976810455322}
+{"factor": 8.0, "repeat": 1, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 222.95498323440552}
+{"factor": 3.0, "repeat": 1, "grads": null, "reported_std": null, "error": "ValueError", "secs": 233.50835013389587}
+{"factor": 1.3, "repeat": 2, "grads": [120.31781738265227, -39.42210491540709], "reported_std": [47.07407472358301, 50.87498883668775], "error": null, "secs": 225.17113995552063}
+{"factor": 1.6, "repeat": 2, "grads": [50.78098430419959, -37.66369191929971], "reported_std": [26.028807435029584, 25.017772967103692], "error": null, "secs": 225.14834570884705}
+{"factor": 2.0, "repeat": 2, "grads": [110.12855527022212, -0.7795874977026216], "reported_std": [15.715837562729972, 15.969262005787382], "error": null, "secs": 229.2823646068573}
+{"factor": 3.0, "repeat": 2, "grads": [102.85219367042268, 3.261284596998042], "reported_std": [8.245946511529649, 6.9775717043017496], "error": null, "secs": 234.88390040397644}
+{"factor": 5.0, "repeat": 2, "grads": [83.21725845484285, -1.439854658393667], "reported_std": [10.82222576866149, 5.093697573476583], "error": null, "secs": 224.80396938323975}
+{"factor": 8.0, "repeat": 2, "grads": null, "reported_std": null, "error": "ValueError", "secs": 223.53914833068848}
+{"factor": 1.3, "repeat": 3, "grads": [63.426550918029534, 11.005662321054842], "reported_std": [49.29587353034099, 47.57845225557773], "error": null, "secs": 224.74377584457397}
+{"factor": 1.6, "repeat": 3, "grads": [110.81066666641479, 7.200762532581905], "reported_std": [22.86589582407559, 23.91406082058376], "error": null, "secs": 224.4685389995575}
+{"factor": 2.0, "repeat": 3, "grads": [99.1837424347091, -0.46373889196239304], "reported_std": [15.29629057214952, 16.070084525677995], "error": null, "secs": 230.80437636375427}
+{"factor": 5.0, "repeat": 3, "grads": null, "reported_std": null, "error": "ValueError", "secs": 226.70593333244324}
+{"factor": 3.0, "repeat": 3, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 237.00468754768372}
+{"factor": 8.0, "repeat": 3, "grads": null, "reported_std": null, "error": "ValueError", "secs": 225.27390050888062}
+{"factor": 1.3, "repeat": 4, "grads": [70.61441369120985, -105.31685562805615], "reported_std": [48.691779560184536, 48.632906887927085], "error": null, "secs": 230.2269937992096}
+{"factor": 1.6, "repeat": 4, "grads": [49.57755961443081, 37.80253260403174], "reported_std": [26.614574066362234, 23.68297662566476], "error": null, "secs": 230.4882731437683}
+{"factor": 2.0, "repeat": 4, "grads": [100.1183186300706, 8.929719251083839], "reported_std": [14.676067681155834, 14.902641072786787], "error": null, "secs": 236.26158046722412}
+{"factor": 3.0, "repeat": 4, "grads": [84.09534743446471, -12.262074828270151], "reported_std": [8.894388626739644, 6.370245278755239], "error": null, "secs": 240.93124198913574}
+{"factor": 5.0, "repeat": 4, "grads": null, "reported_std": null, "error": "ValueError", "secs": 230.82090425491333}
+{"factor": 8.0, "repeat": 4, "grads": null, "reported_std": null, "error": "ValueError", "secs": 230.25884914398193}
+{"factor": 1.3, "repeat": 5, "grads": [-14.237341663128973, 44.918692030824786], "reported_std": [48.83762536761176, 47.78709184229214], "error": null, "secs": 232.28357529640198}
+{"factor": 1.6, "repeat": 5, "grads": [91.29756312902646, -30.618097881204676], "reported_std": [28.988344104125275, 23.921177792462828], "error": null, "secs": 231.72443008422852}
+{"factor": 2.0, "repeat": 5, "grads": [110.44956558331009, 13.09529796441539], "reported_std": [14.922552495427995, 14.883765872955719], "error": null, "secs": 236.01987957954407}
+{"factor": 5.0, "repeat": 5, "grads": null, "reported_std": null, "error": "ValueError", "secs": 230.11037397384644}
+{"factor": 3.0, "repeat": 5, "grads": null, "reported_std": null, "error": "ValueError", "secs": 241.78279757499695}
+{"factor": 8.0, "repeat": 5, "grads": null, "reported_std": null, "error": "ValueError", "secs": 228.7538046836853}
+{"factor": 1.3, "repeat": 6, "grads": [177.09679697572574, 29.69044697717618], "reported_std": [49.29283817920012, 43.84495339417797], "error": null, "secs": 231.32712531089783}
+{"factor": 1.6, "repeat": 6, "grads": [118.14450463806213, -5.338592082511127], "reported_std": [26.89158740977097, 24.632177057108283], "error": null, "secs": 231.6715521812439}
+{"factor": 2.0, "repeat": 6, "grads": [99.46507636242524, 9.401864869520573], "reported_std": [14.302806430979622, 15.89767645303786], "error": null, "secs": 236.42260909080505}
+{"factor": 3.0, "repeat": 6, "grads": [106.78950218224664, -16.112056787843862], "reported_std": [10.290656148091944, 6.9738966623721295], "error": null, "secs": 241.27397394180298}
+{"factor": 5.0, "repeat": 6, "grads": null, "reported_std": null, "error": "ValueError", "secs": 228.80564069747925}
+{"factor": 8.0, "repeat": 6, "grads": [29.519755576435912, 0.009472045574230759], "reported_std": [33.39495130660955, 4.800248586779942], "error": null, "secs": 226.9730236530304}
+{"factor": 1.3, "repeat": 7, "grads": [182.46725013329706, -79.23690719560318], "reported_std": [45.81142035903962, 46.47614285244081], "error": null, "secs": 227.5557565689087}
+{"factor": 1.6, "repeat": 7, "grads": [99.50768925593289, 24.771733312810284], "reported_std": [22.227092025390448, 24.979228086473906], "error": null, "secs": 227.84503483772278}
+{"factor": 2.0, "repeat": 7, "grads": [125.4476699416237, -23.510339297663904], "reported_std": [15.14512500348993, 15.440390345271782], "error": null, "secs": 232.16529607772827}
+{"factor": 5.0, "repeat": 7, "grads": [72.49452444817953, 4.128677731026962], "reported_std": [15.124393121849046, 4.9105038408291275], "error": null, "secs": 226.35840344429016}
+{"factor": 3.0, "repeat": 7, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 236.45206212997437}
+{"factor": 8.0, "repeat": 7, "grads": null, "reported_std": null, "error": "ValueError", "secs": 223.7788851261139}
+{"factor": 1.3, "repeat": 8, "grads": [103.6221974947548, -26.05543435394702], "reported_std": [47.23968145074131, 47.17330658473753], "error": null, "secs": 224.0617458820343}
+{"factor": 1.6, "repeat": 8, "grads": [99.42213154752497, 38.65972895482642], "reported_std": [25.040153570974446, 22.166625077926515], "error": null, "secs": 224.91028785705566}
+{"factor": 2.0, "repeat": 8, "grads": [110.57052602070632, 29.691429289391493], "reported_std": [15.299679077493707, 16.175947541746915], "error": null, "secs": 230.1578402519226}
+{"factor": 3.0, "repeat": 8, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 235.23145508766174}
+{"factor": 5.0, "repeat": 8, "grads": null, "reported_std": null, "error": "ValueError", "secs": 226.8427391052246}
+{"factor": 8.0, "repeat": 8, "grads": null, "reported_std": null, "error": "ValueError", "secs": 224.64063692092896}
+{"factor": 1.3, "repeat": 9, "grads": [-14.804694619158909, -70.70004468463867], "reported_std": [51.24121624055139, 46.157625003648086], "error": null, "secs": 225.79757261276245}
+{"factor": 1.6, "repeat": 9, "grads": [83.94616309559706, 33.658610806309866], "reported_std": [25.799837352778134, 23.996471426432386], "error": null, "secs": 226.18776297569275}
+{"factor": 2.0, "repeat": 9, "grads": [122.53406014476238, -23.602690402479553], "reported_std": [14.340047430968474, 16.124666257823428], "error": null, "secs": 231.74050045013428}
+{"factor": 5.0, "repeat": 9, "grads": null, "reported_std": null, "error": "ValueError", "secs": 225.7450611591339}
+{"factor": 3.0, "repeat": 9, "grads": [109.41680649021475, -18.04086883048798], "reported_std": [6.936119603403391, 6.957281747065358], "error": null, "secs": 236.22188568115234}
+{"factor": 8.0, "repeat": 9, "grads": null, "reported_std": null, "error": "LinAlgError", "secs": 223.15772366523743}

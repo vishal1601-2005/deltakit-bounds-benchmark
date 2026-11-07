@@ -39,3 +39,5 @@ TQDM_DISABLE=1 python bench_bounds.py 6 C_OPTIMAL   # about 5 minutes; writes bo
 python plot_bounds.py
 ```
 (Both scripts read and write in the current folder.)
+
+See [RESULTS_V2.md](RESULTS_V2.md) for the v2 results: measurement noise, d=3, 5, 7 and repeat statistics.
