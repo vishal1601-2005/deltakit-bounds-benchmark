@@ -40,4 +40,4 @@ python plot_bounds.py
 ```
 (Both scripts read and write in the current folder.)
 
-See [RESULTS_V2.md](RESULTS_V2.md) for the v2 results: measurement noise, d=3, 5, 7 and repeat statistics.
+See [RESULTS_v2.md](RESULTS_v2.md) for the v2 results: measurement noise, d=3, 5, 7 and repeat statistics.
